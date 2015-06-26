@@ -1,0 +1,9 @@
+1. 在线创建一个仓库；
+2. 克隆到本地；
+3. 用GUI打开shell命令行
+4. git init
+5. git checkout --orphan gh-pages
+6. git add .
+7. git remote add https://github.com/usename/projectname
+8. git push origin gh-pages
+9. 等待完成发布，如果失败可以在重试一下即可。
